@@ -39,7 +39,7 @@ button {
 }
 
 .dodger:active {
-  	transform: translate(100px, 50px);
+  	transform: translate(80px, 40px);
   	pointer-events: none;
 }
 
@@ -49,6 +49,7 @@ h1 {
 	font-size: 35px;
 	text-align: center;
 }
+
 
 
 
